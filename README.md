@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Deddy Supangat! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1>Hi there, I'm Deddy ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   <h3>💻 IT Pro | 🛠️ PC Builder & Home Lab Enthusiast | 🚀 Aspiring Developer & AI Learner</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF2A&center=true&vCenter=true&width=700&lines=Tinkering+with+Servers+and+Networks;Building+Custom+PC+Rigs+for+Fun;Currently+learning+Development+%26+Local+AI+Models;Building+Automated+Pentest+Tools" alt="Typing SVG" />
 </div>
