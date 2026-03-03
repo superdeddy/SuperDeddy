@@ -14,7 +14,7 @@ Saya berakar dari dunia infrastruktur IT—seorang *PC Builder* yang hobi mengul
 - 🌱 **Currently Learning:** Software Development architecture, integrasi **Local AI Models (Ollama/LLaMA)**, dan pembuatan Bot/Mini Apps.
 - 🔭 **Current Active Projects:** Sedang aktif mengembangkan berbagai **Automated Scalable Pentest Scanners** (seperti Nuclei & ZAP integration).
 - 💬 **Let's discuss:** Server administration, Home Networking, Local AI deployment, atau sekadar ngobrol soal rakit *PC impian* Anda!
-- 📫 **How to reach me:** **[Link LinkedIn/Email Anda]**
+- 📫 **How to reach me:** **[[Link LinkedIn/Email Anda](https://www.linkedin.com/in/deddysupangat/)]**
 - ⚡ **Fun fact:** *I can cable-manage a server rack flawlessly, but my own desk is usually a beautifully organized chaos of components and code.*
 
 ---
