@@ -14,30 +14,31 @@ Saya berakar dari dunia infrastruktur IT—seorang *PC Builder* yang hobi mengul
 - 🌱 **Currently Learning:** Software Development architecture, integrasi **Local AI Models (Ollama/LLaMA)**, dan pembuatan Bot/Mini Apps.
 - 🔭 **Current Active Projects:** Sedang aktif mengembangkan berbagai **Automated Scalable Pentest Scanners** (seperti Nuclei & ZAP integration).
 - 💬 **Let's discuss:** Server administration, Home Networking, Local AI deployment, atau sekadar ngobrol soal rakit *PC impian* Anda!
-- 📫 **How to reach me:** **[[Link LinkedIn/Email Anda](https://www.linkedin.com/in/deddysupangat/)]**
+- 📫 **How to reach me:** <a href="https://www.linkedin.com/in/deddysupangat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 - ⚡ **Fun fact:** *I can cable-manage a server rack flawlessly, but my own desk is usually a beautifully organized chaos of components and code.*
 
 ---
 
 ### 🛠️ My Tech Arsenal
 <p align="left">
+  <!-- Infrastructure, OS & Network (Root Skills) -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
   <br>
+  <!-- Development & Programming (Current Focus) -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-
 ---
 
 ### 📊 GitHub Activity & Stats
 <div align="center">
-  <!-- GitHub Activity Graph Baru (Aman & Tidak Down) -->
+  <!-- GitHub Activity Graph Baru (Bentuk Kurva Garis) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuperDeddy&theme=tokyo-night&bg_color=1a1b26&color=00FF2A&line=00FF2A&point=ffffff&hide_border=true" alt="Activity Graph" />
 </div>
 <br>
