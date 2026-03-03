@@ -38,12 +38,14 @@ Saya adalah seorang *Developer* dan *Security Researcher* yang suka menjembatani
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 📊 GitHub Activity & Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuperDeddy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF2A&icon_color=00FF2A" alt="GitHub Stats" />
+  <!-- GitHub Activity Graph Baru (Lebih Lebar dan Keren) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuperDeddy&theme=tokyo-night&bg_color=1a1b26&color=00FF2A&line=00FF2A&point=ffffff&hide_border=true" alt="Activity Graph" />
+</div>
+<br>
+<div align="center">
+  <!-- GitHub Streak (Yang Masih Menyala) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperDeddy&theme=tokyonight&hide_border=true&fire=00FF2A&ring=00FF2A" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperDeddy&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF2A" alt="Top Languages" />
-</div>
